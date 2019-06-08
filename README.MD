@@ -36,3 +36,13 @@ plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.1.551.v20171108-1834<b
 <br>
 ***new param to clean the osgi settings that eclipse stores..<br>
 -Dosgi.clean=true
+
+
+<BR>
+List of tools to install in studio.. 
+<BR>
+Enterprise security for 7 studio http://anypoint-enterprise-security-update-site.s3.amazonaws.com/1.8.0
+<BR>
+
+<BR>
+Java decompile for .class files without sourcecode.. http://java-decompiler.github.io/
