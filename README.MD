@@ -34,5 +34,5 @@ plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.1.551.v20171108-1834<b
 <br>-Dorg.mule.tooling.client.usecache=true
 <br>-Dtooling.concurrent.local.repository.enabled=false
 <br>
-***new param to clean the osgi settings that eclipse stores..
+***new param to clean the osgi settings that eclipse stores..<br>
 -Dosgi.clean=true
